@@ -57,7 +57,7 @@ I'm passionate about building robust software and contributing to open source.
     </td>
     <td>
       <a href="https://github.com/Suresh-28/dev-ops-dashboard01">
-        <img src="https://socialify.git.ci/Suresh-28/dev-ops-dashboard01/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
+        <img src="https://github.com/Suresh-28/dev-ops-dashboard01/blob/main/Screenshot%202025-07-13%20173032.png" width="280" />
       </a>
       <br>
       <b>dev-ops-dashboard01</b>
