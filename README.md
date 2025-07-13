@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Suresh!
 
 Welcome to my GitHub profile!  
-I'm passionate about building robust software and contributing to open source.
+I'm passionate about building robust AI software Development and contributing to open source.
 
 ---
 
 ## 🚀 About Me
 
 - 💼 AI Software Developer | Tech Enthusiast | Prompt Engineer
-- 🌱 Currently learning: [Your current topics, e.g. AI/ML, Cloud Computing]
-- 👯 Looking to collaborate on: [Interesting projects or open source]
-- 💬 Ask me about: [Your areas of expertise]
+- 🌱 Currently learning: [ Prompt Engineering, Generative AI]
+- 👯 Looking to collaborate on: [Checkout my repos]
+- 💬 Ask me about: [Prompt Engineering/Generative AI/AI Software Development]
 
 ---
 
