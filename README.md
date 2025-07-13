@@ -48,7 +48,7 @@ I'm passionate about building robust software and contributing to open source.
   <tr>
     <td>
       <a href="https://github.com/Suresh-28/CRM-System-Dashboard">
-        <img src="https://socialify.git.ci/Suresh-28/CRM-System-Dashboard/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
+        <img src="https://github.com/Suresh-28/CRM-System-Dashboard/blob/main/Screenshot%202025-07-13%20213558.png" width="280" />
       </a>
       <br>
       <b>CRM-System-Dashboard</b>
