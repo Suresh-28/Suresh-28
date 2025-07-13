@@ -48,36 +48,16 @@ I'm passionate about building robust software and contributing to open source.
   <tr>
     <td>
       <a href="https://github.com/Suresh-28/CRM-System-Dashboard">
-        <img src="https://github.com/Suresh-28/CRM-System-Dashboard/blob/main/Screenshot%202025-07-13%20213558.png" width="280" />
+        <img src="https://github.com/Suresh-28/CRM-System-Dashboard/blob/main/Screenshot%202025-07-13%20213558.png" width="380" />
       </a>
       <br>
       <b>CRM-System-Dashboard</b>
       <br>
       <i>A modern dashboard for CRM systems to track leads, sales, and tasks. Includes analytics and user management.</i>
     </td>
-    <td>
-      <a href="https://github.com/Suresh-28/dev-ops-dashboard01">
-        <img src="https://github.com/Suresh-28/dev-ops-dashboard01/blob/main/Screenshot%202025-07-13%20173032.png" width="280" />
-      </a>
-      <br>
-      <b>dev-ops-dashboard01</b>
-      <br>
-      <i>A DevOps dashboard to monitor workflows, deployments, and system status. Provides actionable insights and visualizations for engineering teams.</i>
-    </td>
-    <td>
-      <a href="https://github.com/Suresh-28/Lead-Distribution-Notification">
-        <img src="https://socialify.git.ci/Suresh-28/Lead-Distribution-Notification/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
-      </a>
-      <br>
-      <b>Lead-Distribution-Notification</b>
-      <br>
-      <i>Automates lead distribution notifications to ensure quick follow-up and efficient team response.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
+      <td>
       <a href="https://github.com/Suresh-28/Lead-Capture-CRM-Logging-Auto-Email">
-        <img src="https://socialify.git.ci/Suresh-28/Lead-Capture-CRM-Logging-Auto-Email/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
+        <img src="https://github.com/Suresh-28/Lead-Capture-CRM-Logging-Auto-Email/blob/main/workflow.png" width="280" />
       </a>
       <br>
       <b>Lead-Capture-CRM-Logging-Auto-Email</b>
@@ -86,12 +66,32 @@ I'm passionate about building robust software and contributing to open source.
     </td>
     <td>
       <a href="https://github.com/Suresh-28/emoji-spam-fighter">
-        <img src="https://socialify.git.ci/Suresh-28/emoji-spam-fighter/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
+        <img src="https://github.com/Suresh-28/emoji-spam-fighter/blob/main/Screenshot%202025-07-13%20215034.png" width="280" />
       </a>
       <br>
       <b>emoji-spam-fighter</b>
       <br>
       <i>Detects and fights emoji-based spam to keep your platform clean and friendly.</i>
+    </td>
+  </tr>
+  <tr>
+     <td>
+      <a href="https://github.com/Suresh-28/dev-ops-dashboard01">
+        <img src="https://github.com/Suresh-28/dev-ops-dashboard01/blob/main/Screenshot%202025-07-13%20173032.png" width="380" />
+      </a>
+      <br>
+      <b>dev-ops-dashboard01</b>
+      <br>
+      <i>A DevOps dashboard to monitor workflows, deployments, and system status. Provides actionable insights and visualizations for engineering teams.</i>
+    </td>
+        <td>
+      <a href="https://github.com/Suresh-28/Lead-Distribution-Notification">
+        <img src="https://github.com/Suresh-28/Lead-Distribution-Notification/blob/main/Workflow.png" width="280" />
+      </a>
+      <br>
+      <b>Lead-Distribution-Notification</b>
+      <br>
+      <i>Automates lead distribution notifications to ensure quick follow-up and efficient team response.</i>
     </td>
     <td>
       <a href="https://github.com/Suresh-28/prompt-to-resume-genius">
