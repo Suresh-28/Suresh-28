@@ -16,6 +16,7 @@ I'm passionate about building robust AI software Development and contributing to
 
 ## 🛠️ Technologies & Tools
 
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00BFFF?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-purple?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-6c63ff?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-00B86B?style=flat-square)
@@ -25,7 +26,6 @@ I'm passionate about building robust AI software Development and contributing to
 ![Lovable](https://img.shields.io/badge/-Lovable-ff69b4?style=flat-square)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00BFFF?style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
