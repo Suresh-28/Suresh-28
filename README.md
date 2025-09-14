@@ -7,10 +7,10 @@ I'm passionate about building robust AI software Development and contributing to
 
 ## 🚀 About Me
 
-- 💼 AI Software Developer | Tech Enthusiast | Prompt Engineer
-- 🌱 Currently learning: [ Prompt Engineering, Generative AI]
+- 💼 Data Anlytic | AI Software Developer | Tech Enthusiast | Prompt Engineer
+- 🌱 Currently learning: Data Analytics[Excel,PowerBI,SQl] [ Prompt Engineering, Generative AI]
 - 👯 Looking to collaborate on: [Checkout my repos]
-- 💬 Ask me about: [Prompt Engineering/Generative AI/AI Software Development]
+- 💬 Ask me about: [Data Anlaysis] [Prompt Engineering/Generative AI/AI Software Development]
 
 ---
 
