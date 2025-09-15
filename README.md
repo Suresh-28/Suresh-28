@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Suresh!
 
 Welcome to my GitHub profile!  
-I'm passionate about building robust AI software Development and contributing to open source.
+I'm passionate about leveraging data analytics to uncover insights, build data-driven solutions, and contribute to open-source projects in the analytics community.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Data Anlytic | AI Software Developer | Tech Enthusiast | Prompt Engineer
+- 💼 Data Analytics | AI Software Developer | Tech Enthusiast | Prompt Engineer
 - 🌱 Currently learning: Data Analytics[Excel,PowerBI,SQl] [ Prompt Engineering, Generative AI]
 - 👯 Looking to collaborate on: [Checkout my repos]
 - 💬 Ask me about: [Data Anlaysis] [Prompt Engineering/Generative AI/AI Software Development]
@@ -15,6 +15,11 @@ I'm passionate about building robust AI software Development and contributing to
 ---
 
 ## 🛠️ Technologies & Tools
+
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-00BFFF?style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-f7b801?style=flat-square)
+![PowerBI](https://img.shields.io/badge/-PowerBI-ff69b4?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-10a37f?style=flat-square)
 
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-00BFFF?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-purple?style=flat-square)
@@ -27,18 +32,11 @@ I'm passionate about building robust AI software Development and contributing to
 ![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-28&layout=compact&theme=radical)
-
----
 
 ## 🌟 Featured Projects
 
