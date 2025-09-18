@@ -7,10 +7,10 @@ I'm passionate about leveraging data analytics to uncover insights, build data-d
 
 ## 🚀 About Me
 
-- 💼 Data Analytics | AI Software Developer | Tech Enthusiast | Prompt Engineer
-- 🌱 Currently learning: Data Analytics[Excel,PowerBI,SQl] [ Prompt Engineering, Generative AI]
+- 💼 Data Analytics | PowerQuery | SQL | Python
+- 🌱 Currently learning: Data Analytics
 - 👯 Looking to collaborate on: [Checkout my repos]
-- 💬 Ask me about: [Data Anlaysis] [Prompt Engineering/Generative AI/AI Software Development]
+- 💬 Ask me about: [Data Anlaysis] [Excel,PowerBi,PowerQuery,Tableau,Looker Studio,SQL,Python]
 
 ---
 
