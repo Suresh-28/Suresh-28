@@ -73,33 +73,7 @@ I'm passionate about leveraging data analytics to uncover insights, build data-d
     </td>
   </tr>
   <tr>
-     <td>
-      <a href="https://github.com/Suresh-28/dev-ops-dashboard01">
-        <img src="https://github.com/Suresh-28/dev-ops-dashboard01/blob/main/Screenshot%202025-07-13%20173032.png" width="380" />
-      </a>
-      <br>
-      <b>dev-ops-dashboard01</b>
-      <br>
-      <i>A DevOps dashboard to monitor workflows, deployments, and system status. Provides actionable insights and visualizations for engineering teams.</i>
-    </td>
-        <td>
-      <a href="https://github.com/Suresh-28/Lead-Distribution-Notification">
-        <img src="https://github.com/Suresh-28/Lead-Distribution-Notification/blob/main/Workflow.png" width="280" />
-      </a>
-      <br>
-      <b>Lead-Distribution-Notification</b>
-      <br>
-      <i>Automates lead distribution notifications to ensure quick follow-up and efficient team response.</i>
-    </td>
-    <td>
-      <a href="https://github.com/Suresh-28/prompt-to-resume-genius">
-        <img src="https://socialify.git.ci/Suresh-28/prompt-to-resume-genius/image?description=1&language=1&name=1&owner=1&theme=Light" width="280" />
-      </a>
-      <br>
-      <b>prompt-to-resume-genius</b>
-      <br>
-      <i>Generate professional resumes from simple prompts using AI-powered automation and customization.</i>
-    </td>
+   
   </tr>
 </table>
 
