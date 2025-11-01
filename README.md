@@ -45,31 +45,31 @@ I'm passionate about leveraging data analytics to uncover insights, build data-d
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Suresh-28/CRM-System-Dashboard">
-        <img src="https://github.com/Suresh-28/CRM-System-Dashboard/blob/main/Screenshot%202025-07-13%20213558.png" width="380" />
+      <a href="https://github.com/Suresh-28/Finance-Analysis/tree/main">
+<img width="1919" height="1079" alt="Screenshot 2025-10-29 172005" src="https://github.com/user-attachments/assets/806efd29-72dd-4de2-a943-8bea74bba20b" />
       </a>
       <br>
-      <b>CRM-System-Dashboard</b>
+      <b>Finance Analysis Dashboard</b>
       <br>
-      <i>A modern dashboard for CRM systems to track leads, sales, and tasks. Includes analytics and user management.</i>
+      <i>The Finance Analysis Dashboard provides a comprehensive overview of financial performance across countries, segments, and time periods. It was created in Power BI to help decision-makers quickly assess sales, profit trends, and key business metrics using interactive visuals and KPIs.</i>
     </td>
       <td>
-      <a href="https://github.com/Suresh-28/Lead-Capture-CRM-Logging-Auto-Email">
-        <img src="https://github.com/Suresh-28/Lead-Capture-CRM-Logging-Auto-Email/blob/main/workflow.png" width="280" />
+      <a href="https://github.com/Suresh-28/Sales-Dashboard-poweBI-/tree/main">
+      <img width="1905" height="1003" alt="image" src="https://github.com/user-attachments/assets/10564188-faa2-4b90-aaec-6b9d89f9c398" />
       </a>
       <br>
-      <b>Lead-Capture-CRM-Logging-Auto-Email</b>
+      <b>📈 Sales Data Dashboard</b>
       <br>
-      <i>Captures leads, logs CRM activities, and sends automated emails to streamline customer engagement.</i>
+      <i>The Sales Data Dashboard is an interactive Power BI report designed to provide actionable insights into overall sales performance, customer behavior, and product trends. It consolidates key metrics from sales data, offering business users a visual summary to support data-driven decision-making.</i>
     </td>
     <td>
-      <a href="https://github.com/Suresh-28/emoji-spam-fighter">
-        <img src="https://github.com/Suresh-28/emoji-spam-fighter/blob/main/Screenshot%202025-07-13%20215034.png" width="280" />
+      <a href="https://github.com/Suresh-28/Global-Retail-Insights-Dashboard-Power-BI-">
+      <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/3ff0637a-3a76-4682-a64e-c085feb565b4" />
       </a>
       <br>
-      <b>emoji-spam-fighter</b>
+      <b>📊 Global Retail Insights Sales Dashboard</b>
       <br>
-      <i>Detects and fights emoji-based spam to keep your platform clean and friendly.</i>
+      <i>The Sales Dashboard is a Power BI report designed to provide a comprehensive view of sales performance, profit distribution, and discount trends across categories, segments, regions, and markets. This interactive dashboard helps business teams track performance metrics, identify high-performing areas, and analyze sales behavior over time.</i>
     </td>
   </tr>
   <tr>
